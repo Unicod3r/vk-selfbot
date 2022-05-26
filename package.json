@@ -1,0 +1,25 @@
+{
+  "name": "vk-self-bot",
+  "version": "1.0.0",
+  "description": "Selfbot for VK social network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unicod3r/vk-selfbot.git"
+  },
+  "keywords": [
+    "vk",
+    "vkontakte",
+    "selfbot",
+    "bot"
+  ],
+  "author": "unicod3r",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Unicod3r/vk-selfbot/issues"
+  },
+  "homepage": "https://github.com/Unicod3r/vk-selfbot#readme"
+}
